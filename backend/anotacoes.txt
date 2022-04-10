@@ -1,0 +1,7 @@
+iniciar o frontend:
+     npm run server -- --port 8081
+
+
+
+
+
